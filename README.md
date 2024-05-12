@@ -86,7 +86,7 @@ src -- 源码目录
 
 加微信群交流，公众号后台回复「**加群**」即可。
 
-![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)
+<!-- ![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg) -->
 
 ## 许可证
 
